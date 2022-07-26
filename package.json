@@ -1,0 +1,21 @@
+{
+    "name": "ha-theme-dark",
+    "displayName": "HA Theme",
+    "description": "HarshitAditya",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.69.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "HA's Theme",
+                "uiTheme": "vs-dark",
+                "path": "./themes/HA's Theme-color-theme.json"
+            }
+        ]
+    }
+}
