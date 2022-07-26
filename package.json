@@ -1,8 +1,13 @@
 {
     "name": "ha-theme-dark",
     "displayName": "HA Theme",
-    "description": "HarshitAditya",
+    "description": "This theme is created by Harshit",
     "version": "0.0.1",
+    "publisher": "HarshitAditya",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/HarshitAditya27/Ha-s-Theme"
+    },
     "engines": {
         "vscode": "^1.69.0"
     },
